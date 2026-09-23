@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Vacation Mode Basic 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-23 00:00-0300\n"
+"PO-Revision-Date: 2026-09-23 00:00-0300\n"
+"Last-Translator: Eduardo Henrique Teixeira\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Domain: woo-vacation-mode-basic\n"
+
+msgid "About"
+msgstr ""
+
+msgid "Author:"
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Bar position"
+msgstr ""
+
+msgid "Block new purchases"
+msgstr ""
+
+msgid "Bottom of the page"
+msgstr ""
+
+msgid "Cart and checkout message"
+msgstr ""
+
+msgid "Close button color"
+msgstr ""
+
+msgid "Close notice"
+msgstr ""
+
+msgid "Configure a simple vacation mode for your WooCommerce store, with a full-width notice bar, separate messages, and an option to block purchases."
+msgstr ""
+
+msgid "Display the X button so visitors can dismiss the notice."
+msgstr ""
+
+msgid "Enable the notice bar and the plugin behavior."
+msgstr ""
+
+msgid "Enable vacation mode"
+msgstr ""
+
+msgid "GitHub:"
+msgstr ""
+
+msgid "Hide buttons like \"Buy\", \"Add to cart\", and similar purchase controls."
+msgstr ""
+
+msgid "Hide purchase buttons"
+msgstr ""
+
+msgid "Horizontal internal spacing in pixels."
+msgstr ""
+
+msgid "Horizontal padding"
+msgstr ""
+
+msgid "If unchecked, the bar will only be shown on WooCommerce pages."
+msgstr ""
+
+msgid "License:"
+msgstr ""
+
+msgid "Notice bar message"
+msgstr ""
+
+msgid "Number of hours before the notice is shown again after being closed."
+msgstr ""
+
+msgid "Prevent add to cart and checkout access during vacation mode."
+msgstr ""
+
+msgid "Replacement text for purchase buttons"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Show across the whole site"
+msgstr ""
+
+msgid "Show again after"
+msgstr ""
+
+msgid "Show close button"
+msgstr ""
+
+msgid "Store notice"
+msgstr ""
+
+msgid "Store vacation mode"
+msgstr ""
+
+msgid "Supports simple HTML like &lt;b&gt;, &lt;strong&gt;, &lt;i&gt;, &lt;em&gt;, &lt;u&gt;, &lt;br&gt;, &lt;p&gt;, and &lt;center&gt;."
+msgstr ""
+
+msgid "Temporarily unavailable"
+msgstr ""
+
+msgid "Text color"
+msgstr ""
+
+msgid "The store is temporarily in vacation mode and is not accepting new orders."
+msgstr ""
+
+msgid "This plugin creates a cookie-style visual notice, lets you define separate messages, and can block new purchases in WooCommerce."
+msgstr ""
+
+msgid "Top of the page"
+msgstr ""
+
+msgid "Vacation mode"
+msgstr ""
+
+msgid "Vertical internal spacing in pixels."
+msgstr ""
+
+msgid "Vertical padding"
+msgstr ""
+
+msgid "We are currently on vacation mode."
+msgstr ""
+
+msgid "We are not accepting new orders at the moment. We will be back soon."
+msgstr ""
+
+msgid "We are temporarily not accepting new orders. Please come back soon."
+msgstr ""
+
+msgid "Woo Vacation Mode Basic is an open-source plugin developed by Eduardo Henrique Teixeira for simple WooCommerce vacation management."
+msgstr ""
+
+msgid "or later"
+msgstr ""

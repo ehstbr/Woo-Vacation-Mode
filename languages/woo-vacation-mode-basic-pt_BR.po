@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Vacation Mode Basic 1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-23 00:00-0300\n"
+"PO-Revision-Date: 2026-09-23 00:00-0300\n"
+"Last-Translator: Eduardo Henrique Teixeira\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Domain: woo-vacation-mode-basic\n"
+
+msgid "About"
+msgstr "Sobre"
+
+msgid "Author:"
+msgstr "Autor:"
+
+msgid "Background color"
+msgstr "Cor de fundo"
+
+msgid "Bar position"
+msgstr "Posição da barra"
+
+msgid "Block new purchases"
+msgstr "Bloquear novas compras"
+
+msgid "Bottom of the page"
+msgstr "Rodapé da página"
+
+msgid "Cart and checkout message"
+msgstr "Mensagem do carrinho e checkout"
+
+msgid "Close button color"
+msgstr "Cor do botão de fechar"
+
+msgid "Close notice"
+msgstr "Fechar aviso"
+
+msgid "Configure a simple vacation mode for your WooCommerce store, with a full-width notice bar, separate messages, and an option to block purchases."
+msgstr "Configure um modo de férias simples para sua loja WooCommerce, com barra de aviso em largura total, mensagens separadas e opção de bloquear compras."
+
+msgid "Display the X button so visitors can dismiss the notice."
+msgstr "Exibir o botão X para que os visitantes possam fechar o aviso."
+
+msgid "Enable the notice bar and the plugin behavior."
+msgstr "Ativar a barra de aviso e o comportamento do plugin."
+
+msgid "Enable vacation mode"
+msgstr "Ativar modo férias"
+
+msgid "GitHub:"
+msgstr "GitHub:"
+
+msgid "Hide buttons like \"Buy\", \"Add to cart\", and similar purchase controls."
+msgstr "Ocultar botões como \"Comprar\", \"Adicionar ao carrinho\" e controles de compra semelhantes."
+
+msgid "Hide purchase buttons"
+msgstr "Ocultar botões de compra"
+
+msgid "Horizontal internal spacing in pixels."
+msgstr "Espaçamento interno horizontal em pixels."
+
+msgid "Horizontal padding"
+msgstr "Preenchimento horizontal"
+
+msgid "If unchecked, the bar will only be shown on WooCommerce pages."
+msgstr "Se desmarcado, a barra será exibida apenas nas páginas do WooCommerce."
+
+msgid "License:"
+msgstr "Licença:"
+
+msgid "Notice bar message"
+msgstr "Mensagem da barra de aviso"
+
+msgid "Number of hours before the notice is shown again after being closed."
+msgstr "Número de horas para o aviso ser exibido novamente após ser fechado."
+
+msgid "Prevent add to cart and checkout access during vacation mode."
+msgstr "Impedir adicionar ao carrinho e acessar o checkout durante o modo férias."
+
+msgid "Replacement text for purchase buttons"
+msgstr "Texto substituto para os botões de compra"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Show across the whole site"
+msgstr "Exibir em todo o site"
+
+msgid "Show again after"
+msgstr "Exibir novamente após"
+
+msgid "Show close button"
+msgstr "Exibir botão de fechar"
+
+msgid "Store notice"
+msgstr "Aviso da loja"
+
+msgid "Store vacation mode"
+msgstr "Modo férias da loja"
+
+msgid "Supports simple HTML like &lt;b&gt;, &lt;strong&gt;, &lt;i&gt;, &lt;em&gt;, &lt;u&gt;, &lt;br&gt;, &lt;p&gt;, and &lt;center&gt;."
+msgstr "Aceita HTML simples como &lt;b&gt;, &lt;strong&gt;, &lt;i&gt;, &lt;em&gt;, &lt;u&gt;, &lt;br&gt;, &lt;p&gt; e &lt;center&gt;."
+
+msgid "Temporarily unavailable"
+msgstr "Temporariamente indisponível"
+
+msgid "Text color"
+msgstr "Cor do texto"
+
+msgid "The store is temporarily in vacation mode and is not accepting new orders."
+msgstr "A loja está temporariamente em modo férias e não está aceitando novos pedidos."
+
+msgid "This plugin creates a cookie-style visual notice, lets you define separate messages, and can block new purchases in WooCommerce."
+msgstr "Este plugin cria um aviso visual no estilo de cookies, permite definir mensagens separadas e pode bloquear novas compras no WooCommerce."
+
+msgid "Top of the page"
+msgstr "Topo da página"
+
+msgid "Vacation mode"
+msgstr "Modo férias"
+
+msgid "Vertical internal spacing in pixels."
+msgstr "Espaçamento interno vertical em pixels."
+
+msgid "Vertical padding"
+msgstr "Preenchimento vertical"
+
+msgid "We are currently on vacation mode."
+msgstr "Estamos atualmente em modo férias."
+
+msgid "We are not accepting new orders at the moment. We will be back soon."
+msgstr "No momento não estamos aceitando novos pedidos. Voltaremos em breve."
+
+msgid "We are temporarily not accepting new orders. Please come back soon."
+msgstr "Temporariamente não estamos aceitando novos pedidos. Volte em breve."
+
+msgid "Woo Vacation Mode Basic is an open-source plugin developed by Eduardo Henrique Teixeira for simple WooCommerce vacation management."
+msgstr "Woo Vacation Mode Basic é um plugin de código aberto desenvolvido por Eduardo Henrique Teixeira para um gerenciamento simples do modo férias no WooCommerce."
+
+msgid "or later"
+msgstr "ou posterior"
